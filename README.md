@@ -10,7 +10,7 @@
 Just enter the name of the bot you would like to give and hit create button.</h5>
 <img src="https://github.com/rajiv8/discordBot/blob/master/snapshots/screenshot2.png" width=700 height=300>
 
-<h5>So, After we create our bot , we land to a page where we can do many settings for our bot, the page would be looking like this :</h5>
+<h5>So, After we create our bot , we land to a page where we can do many settings for our bot.</h5>
 
 <h5>Then we go to the "bot" setiings on the left side of the page , since we need to create our bot first.
 After clicking on bot settings we comes on a page, where there is option of "Add Bot" above the right corner, we need to click on that and hit the "Yes do it" button when appears.
